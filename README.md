@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Game Creator Studio&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Visites du profil" />
+  <img src="https://komarev.com/ghpvc/?username=Game-Creator-Studio&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Visites du profil" />
 </p>
 
 ---
