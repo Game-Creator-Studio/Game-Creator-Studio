@@ -68,7 +68,7 @@ Suivez l'avancement de nos créations, discutez avec nous ou testez nos prototyp
   <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-Rejoindre_le_Serveur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-Jouer_à_nos_jeux-FA5C5C?style=for-the-badge&logo=itchio&logoColor=white" alt="Itch.io" /></a>
   <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/X-Suivre_l'actualité-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
-  <a href="mailto:contact@gamecreatorstudio.com"><img src="https://img.shields.io/badge/Email-Nous_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:En-Attente"><img src="https://img.shields.io/badge/Email-Nous_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br />
