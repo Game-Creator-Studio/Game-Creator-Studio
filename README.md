@@ -50,12 +50,12 @@ Pour donner vie à nos idées, nous structurons notre développement autour de g
 ### 📊 Statistiques
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Game Creator Studio&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Game Creator Studio&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Game-Creator-Studio&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Game-Creator-Studio&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Game Creator Studio&theme=dracula&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Game-Creator-Studio&theme=dracula&hide_border=true" width="97%" />
 </p>
 
 ---
